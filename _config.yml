@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Christoph                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Data Scientist   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -32,11 +32,11 @@ social:
   email: bruegge.christoph@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/BrueggeChris      # change to your twitter homepage
     - https://github.com/bruegge-chris       # change to your github homepage
+    - https://twitter.com/BrueggeC      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/christoph-brueggemann/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -47,7 +47,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Berlin
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -87,7 +87,8 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+#avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: C:\Users\Christoph\Documents\Python Scripts\website\blog\bruegge-chris.github.io\assets\img\favicons\Christoph_head_animation.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
