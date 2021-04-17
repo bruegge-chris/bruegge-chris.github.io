@@ -1,6 +1,7 @@
 ---
-title: This is the beginning
-date: 2021-04-17 09:56:00 +0100
+layout: post
+title: 'The Beginning'
+date: '2021-04-17 09:56:00 +0100'
 # categories: [Start]
 # tags: [helloworld]     # TAG names should always be lowercase
 ---
@@ -13,7 +14,7 @@ I will use this blog format to post my progress on diving deeper into data scien
 
 ## Background
 
-I'm german and a trained mechanical engineer with an interest in data science. Because of this on this blog you will most probably find posts relating to data science. Having said that, I am at the very beginning of my journey. For my main programming language I have chosen Python because it seems to be the most popular choice for this field.
+I'm a trained mechanical engineer with an interest in data science. Because of this on this blog you will most probably find posts relating to data science. Having said that, I am at the very beginning of my journey. For my main programming language I have chosen Python because it seems to be the most popular choice for this field.
 
 So once again, welcome! And feel free to stick around.
 
