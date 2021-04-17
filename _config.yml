@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bruegge-chris.github.io'
 
-author: Christoph Brüggemann                 # change to your full name
+author: Chris Bruegge                # change to your full name
 
 github:
   username: bruegge-chris             # change to your github username
@@ -36,7 +36,7 @@ twitter:
   username: BrueggeC            # change to your twitter username
 
 social:
-  name: Christoph Brüggemann                  # it will shows as the copyright owner in Footer
+  name: Chris Bruegge                 # it will shows as the copyright owner in Footer
   email: bruegge.christoph@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -67,7 +67,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
