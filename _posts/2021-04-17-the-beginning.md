@@ -1,8 +1,8 @@
 ---
 title: 'The Beginning'
 date: '2021-04-17 10:56:00 +0100'
-#categories: [Start]
-#tags: [helloworld]     # TAG names should always be lowercase
+categories: [Start]
+tags: [helloworld]     # TAG names should always be lowercase
 ---
 
 # Welcome!
