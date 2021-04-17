@@ -2,7 +2,7 @@
 title: This is the beginning
 date: 2021-04-17 10:56:00 +0100
 categories: [Start]
-tags: [helloWorld]     # TAG names should always be lowercase
+tags: [helloworld]     # TAG names should always be lowercase
 ---
 
 # Welcome!
